@@ -1,0 +1,21 @@
+->Introdution
+->Let & Const Variable
+->Template String
+->Arrow Function
+->Rest operator
+->spread operator
+->Object literals
+->Destruction Array
+->Destruction Object
+->Oop Introdution
+->Class Inheritance
+->Modules
+->Promises 
+->Promises.all
+->Ajax
+->Async and awati
+->Symbols
+->Iterators
+->Generators 
+->Strict Mode 
+->Error Handling 
